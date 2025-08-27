@@ -40,4 +40,4 @@ The project maintains strict code quality standards with comprehensive testing c
 
 ## License
 
-LeaxOS is released under the [MIT License](LICENSE), enabling both commercial and non-commercial use while maintaining open-source accessibility for community contributions and educational purposes.
+LeaxOS is released under the [GNUGPL v3 License](LICENSE), enabling both commercial and non-commercial use while maintaining open-source accessibility for community contributions and educational purposes.
